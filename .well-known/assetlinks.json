@@ -1,1 +1,8 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.supportappstudio_lgtm.twa",
+    "sha256_cert_fingerprints": ["91:DD:F8:94:26:72:A8:D0"]
+  }
+}]
